@@ -1,6 +1,7 @@
 name: Hello World
 description: print "hello world"
 runs:
+  using: "composite"
   steps:
     - name: My first step
       shell: "sh"
