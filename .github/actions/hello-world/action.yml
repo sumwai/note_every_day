@@ -3,4 +3,5 @@ description: print "hello world"
 runs:
   steps:
     - name: My first step
+      shell: "sh"
       run: echo "Hello World"
