@@ -1,5 +1,7 @@
 # 每日日记
 
+[English](README_en.md) | 简体中文
+
 您好，我是程相伟。昨天，我将我的所有公开仓库删掉了。至于原因，是因为我发现，我从来不能算作是一位正规的程序员，而我那些仓库，更像是小孩的作品，它们显得我有些像一个“弱智”。我经常会清理一些看起来不那么清晰的东西，将其理清，重新排列。
 
 前天，我阅读了[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)及[@geeksam](https://github.com/geeksam/)作的[Think like a git](https://think-like-a-git.net/)。才恍然发现，我是个“lusers”，我想改变自己，于是有了这个仓库。
