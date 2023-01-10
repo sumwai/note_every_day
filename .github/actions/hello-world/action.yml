@@ -1,6 +1,6 @@
-- name: Hello World
-- description: print "hello world"
-- runs:
+name: Hello World
+description: print "hello world"
+runs:
   steps:
     - name: My first step
-    - run: echo "Hello World"
+      run: echo "Hello World"
