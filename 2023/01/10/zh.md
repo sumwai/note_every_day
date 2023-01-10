@@ -7,6 +7,16 @@
 
 ## 思考
 
+<details>
+<summary>Github Actions 能做什么？</summary>
+
+</details>
+
+<details>
+<summary>是否可以在Github的虚拟机上运行我的程序？</summary>
+
+</details>
+
 ## 总结
 
 <details>
@@ -26,3 +36,7 @@ runs:
 </details>
 
 ### 参考文章
+
+- [了解 GitHub Actions](https://docs.github.com/zh/actions/learn-github-actions/understanding-github-actions)
+- [关于自定义操作](https://docs.github.com/zh/actions/creating-actions/about-custom-actions)
+- [GitHub Actions 的元数据语法](https://docs.github.com/zh/actions/creating-actions/metadata-syntax-for-github-actions)
